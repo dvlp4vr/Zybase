@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AAmdKzr0GAsFAvqLr/XyGmEx/VhhCkwgCwSzK7KCEJ4=",
+  "Source": "Zybase.Api",
+  "BasePath": "_content/Zybase.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
