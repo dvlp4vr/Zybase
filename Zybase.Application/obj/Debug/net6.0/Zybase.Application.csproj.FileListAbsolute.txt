@@ -1,0 +1,12 @@
+C:\Sourcecode\Zybase\Zybase.Application\bin\Debug\net6.0\Zybase.Application.deps.json
+C:\Sourcecode\Zybase\Zybase.Application\bin\Debug\net6.0\Zybase.Application.dll
+C:\Sourcecode\Zybase\Zybase.Application\bin\Debug\net6.0\ref\Zybase.Application.dll
+C:\Sourcecode\Zybase\Zybase.Application\bin\Debug\net6.0\Zybase.Application.pdb
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.csproj.AssemblyReference.cache
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.AssemblyInfoInputs.cache
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.AssemblyInfo.cs
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.csproj.CoreCompileInputs.cache
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.dll
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\ref\Zybase.Application.dll
+C:\Sourcecode\Zybase\Zybase.Application\obj\Debug\net6.0\Zybase.Application.pdb
